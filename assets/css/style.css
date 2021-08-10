@@ -4,10 +4,6 @@
     --tan: #fcc897;
 }
 
-*{
-    padding: 0;
-    margin: 0;
-}
 
 body{
     font-family: monospace;
@@ -48,6 +44,10 @@ a:hover{
     border-style: dashed;
     border-color: var(--blue);
     cursor: pointer;
+}
+
+aboutme{
+ 
 }
 
 @media screen and (max-width: 768px) {
