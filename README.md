@@ -21,8 +21,7 @@
     THEN I am presented with a responsive layout that adapts to my viewport
 
 # Link to Launch Website
-
-[click here](file:///Users/brittneylynncrosby/Desktop/portfolio-homework/index.html?user-name=&user-email=/)
+[click here](https:///Users/brittneylynncrosby/Desktop/portfolio-homework/index.html?user-name=&user-email=/)
 
 
 # Screenshot of Live Webpage
