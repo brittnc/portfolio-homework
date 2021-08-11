@@ -22,6 +22,8 @@
 
 # Link to Launch Website
 
+    [click here](https://brittnc.github.io/portfolio-homework/)
+
 
 # Screenshot of Live Webpage
 
