@@ -9,6 +9,10 @@ body{
     font-family: monospace;
 }
 
+header.img{
+    background-color: #3d82c2;
+}
+
 nav{
     height: 80px;
     width: 100%;
@@ -39,16 +43,62 @@ nav a{
     font-size: 18px;
 }
 
-a:hover{
+ul a:hover{
     border: 2px;
     border-style: dashed;
     border-color: var(--blue);
     cursor: pointer;
 }
 
-aboutme{
- 
+.aboutme{
+    color: var(--blue);
 }
+
+.portfolio{
+    color: var(--blue);
+    margin: 50px;
+    text-align: center;
+}
+
+.portfolio img:hover{
+    width: 400px;
+    height: 400px;
+}
+
+
+.contact{
+    box-sizing:border-box;
+    margin: auto;
+    width: 50%;
+    border: 5px dashed var(--white);
+}
+
+.contact h2{
+    color: var(--blue);
+    text-align: center;
+}
+
+.text-right{
+    color: var(--blue);
+    text-align: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.contact.img{
+    margin: 100px;
+}
+  
+button {
+    height: 30px;
+    width: 120px;
+    background-color: var(--blue);
+    color: var(--white);
+
+
+
 
 @media screen and (max-width: 768px) {
     main,
@@ -56,4 +106,3 @@ aboutme{
       flex-direction: column;
     }
   }
-  
