@@ -25,4 +25,5 @@
 
 
 # Screenshot of Live Webpage
-
+![Full Webpage on live view](assets/images/top.jpeg)
+![Full Webpage on live view](assets/images/bottom.jpeg)
