@@ -1,4 +1,15 @@
-# Professional Portfolio
+# Professional Portfolio of Brittneylynn Crosby
+
+# Click Link to Launch Website
+[click here](http://127.0.0.1:5500/index.html)
+
+
+# Screenshots of Live Webpage
+![Full Webpage on live view](assets/images/top.jpeg)
+![Full Webpage on live view](assets/images/bottom.jpeg)
+
+
+
 
 ## User Story
     AS AN employer
@@ -20,10 +31,29 @@
     WHEN I resize the page or view the site on various screens and devices
     THEN I am presented with a responsive layout that adapts to my viewport
 
-# Link to Launch Website
-[click here](https://brittnc.github.io.portfolio-homework/)
+## Grading Requirements 
 
+### Technical Acceptance Criteria: 40%
+* Satisfies all of the above acceptance criteria.
 
-# Screenshot of Live Webpage
-![Full Webpage on live view](assets/images/top.jpeg)
-![Full Webpage on live view](assets/images/bottom.jpeg)
+### Deployment: 32%
+* Application deployed at live URL.
+* Application loads with no errors.
+* Application GitHub URL submitted.
+* GitHub repository contains application code.
+
+### Application Quality: 15%
+* Application resembles the mock-up functionality provided in the homework instructions.
+
+### Repository Quality: 13%
+* Repository has a unique name.
+* Repository follows best practices for file structure and naming conventions.
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+* Repository contains multiple descriptive commit messages.
+* Repository contains quality readme with description, screenshot, link to deployed application.
+
+## Review
+
+You are required to submit BOTH of the following for review:
+* The URL of the deployed application.
+* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
