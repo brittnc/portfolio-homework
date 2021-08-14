@@ -1,7 +1,7 @@
 # Professional Portfolio of Brittneylynn Crosby
 
 # Click Link to Launch Website
-[click here](http://127.0.0.1:5500/index.html)
+[click here](https://brittnc.github.io/portfolio-homework)
 
 
 # Screenshots of Live Webpage
