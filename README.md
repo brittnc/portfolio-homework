@@ -14,8 +14,8 @@
 </br >
 
 # Screenshots of Live Webpage
-![Full Webpage on live view](assets/images/top.png)
-![Full Webpage on live view](assets/images/bottom.png)
+![Full Webpage on live view](assets/images/webpage.png)
+
 
 
 
